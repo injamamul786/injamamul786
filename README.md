@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @injamamul786
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python and ML
+- 👋 Hi, I’m Injamamul Haq B.Tech Final year student
+- 👀 I’m interested in python, ML and DSA
+- 🌱 I’m currently learning python, ML, DSA
 - 
 - 💞️ I’m looking to collaborate on python programing and ML
 - 📫 How to reach me injamamulmzp231501@gmail.com
