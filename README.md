@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Injamamul Haq B.Tech Final year student
 - 👀 I’m interested in python, ML and DSA
-- 🌱 I’m currently learning python, ML, DSA
+- 🌱 I’m currently learning python, Django, ML, DSA
 - 
-- 💞️ I’m looking to collaborate on python programing and ML
+- 💞️ I’m looking to collaborate on python programing, Django and ML
 - 📫 How to reach me injamamulmzp231501@gmail.com
 
 <!---
